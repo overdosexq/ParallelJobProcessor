@@ -53,11 +53,9 @@ This is a learning project, not a production-ready job processing system.
 **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ParallelJobProcessor.git
+git clone https://github.com/overdosexq/ParallelJobProcessor.git
 cd ParallelJobProcessor
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 **Run the application**
 
@@ -119,11 +117,9 @@ Completed educational mini-project. Created for personal practice and experiment
 **Клонирование репозитория**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ParallelJobProcessor.git
+git clone https://github.com/overdosexq/ParallelJobProcessor.git
 cd ParallelJobProcessor
 ```
-
-Замени `YOUR_USERNAME` на свой логин GitHub.
 
 **Запуск приложения**
 
